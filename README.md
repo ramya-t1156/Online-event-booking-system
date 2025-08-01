@@ -1,41 +1,39 @@
-# Online Event Booking System
+#  Online Event Booking System
 
 A full-stack web application for managing and booking events, built using **React** for the frontend and **Spring Boot** for the backend.
-
-**Live Demo:**  
- [online-event-booking-system.vercel.app](https://online-event-booking-system.vercel.app)
 
 ---
 
 ## Features
 
--  Secure login & registration with JWT authentication
--  Role-based access for **Admin**, **Organizer**, and **User**
--  Organizers can create, edit, and manage events
--  Users can browse and book events
--  Admins can monitor users and event activities
+-  Secure login & registration with JWT authentication  
+-  Role-based access for **Admin**, **Organizer**, and **User**  
+-  Organizers can create, edit, and manage events  
+-  Users can browse and book events  
+-  Admins can monitor users and event activities  
 
 ---
 
-### 🛠 Tech Stack
+##  Tech Stack
 
-* **Frontend:** React, React Router, Axios
-* **Backend:** Spring Boot, Spring Security, JWT
-* **Database:** MySQL
-* **Deployment:** Render (Backend), Vercel/Netlify (Frontend)
+- **Frontend:** React, React Router, Axios  
+- **Backend:** Spring Boot, Spring Security, JWT  
+- **Database:** MySQL  
+- **Deployment:** Render (Backend), Vercel/Netlify (Frontend)  
 
 ---
 
-##  Project Structure
+## Project Structure
 
 ```bash
 event-booking-system/
 ├── backend/           # Spring Boot backend
 └── frontend/          # React frontend
+````
 
 ---
 
-### 🔐 Roles
+## Roles
 
 * `ROLE_ADMIN` – Manage users and all events
 * `ROLE_ORGANIZER` – Create/manage their own events
@@ -43,29 +41,44 @@ event-booking-system/
 
 ---
 
-###  How to Run Locally
+## How to Run Locally
 
-1. Clone the repository:
+1. **Clone the repository**
 
-   ```
+   ```bash
    git clone https://github.com/your-username/event-booking-app.git
+   cd event-booking-app
    ```
 
-2. Set up MySQL database.
+2. **Set up MySQL database** (locally or via Railway)
 
-3. Configure `.env` or `application.properties` with DB and JWT settings.
+3. **Configure `application.properties`** or `.env` with DB and JWT settings
 
-4. Run backend:
+4. **Run the backend**
 
-   ```
+   ```bash
    cd backend
    mvn spring-boot:run
    ```
 
-5. Run frontend:
+5. **Run the frontend**
 
-   ```
+   ```bash
    cd frontend
    npm install
    npm start
    ```
+
+---
+
+##  Contact
+
+📧 Email: [Ramya T](mailto:ramyathangamuthu7783@gmail.com)
+🌐 LinkedIn: [Ramya T](https://www.linkedin.com/in/ramya-t-90a925291/)
+
+**🔗 Live Demo:**  
+[online-event-booking-system.vercel.app](https://online-event-booking-system.vercel.app)
+
+```
+Let me know if you'd like to add badges, screenshots, API documentation, or links to your GitHub and deployment.
+```
