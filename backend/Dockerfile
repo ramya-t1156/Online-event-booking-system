@@ -5,4 +5,4 @@ RUN mvn clean package -DskipTests
 FROM openjdk:17.0.1-jdk-slim
 COPY --from=build /target/*.jar backend.jar
 EXPOSE 3001
-ENTRYPOINT ["java","-jar","springbootfirst.jar"]
+ENTRYPOINT ["java","-jar","backend.jar"]
