@@ -46,7 +46,7 @@ event-booking-system/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/event-booking-app.git
+   git clone https://github.com/ramya-t1156/Online-event-booking-system.git
    cd event-booking-app
    ```
 
@@ -78,5 +78,3 @@ event-booking-system/
 
 **🔗 Live Demo:**  
 [online-event-booking-system.vercel.app](https://online-event-booking-system.vercel.app)
-
-```
