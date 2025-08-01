@@ -1,0 +1,138 @@
+body {
+  background: linear-gradient(to right, #dff5ff, #bdeeff);
+  color: #00264d;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.bg-primary {
+  background-color: #007bff !important;
+}
+
+.text-primary {
+  color: #007bff !important;
+}
+
+.text-deep {
+  color: #00264d !important;
+}
+
+.navbar {
+  background-color: #007bff !important;
+}
+
+.navbar-brand {
+  font-size: 1.75rem;
+  color: #ffffff !important;
+  font-weight: bold;
+}
+
+.navbar .nav-link {
+  color: #ffffff !important;
+  transition: color 0.3s ease;
+}
+
+.navbar .nav-link:hover {
+  color: #cceeff !important;
+}
+
+.hero-section {
+  position: relative;
+  height: 90vh;
+  background: linear-gradient(to right, #dff5ff, #bdeeff);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-section .content {
+  position: relative;
+  padding: 3rem;
+  background: #ffffff;
+  border-radius: 1rem;
+  color: #00264d;
+  max-width: 750px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.hero-section h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #00264d;
+}
+
+.hero-section h1 span {
+  color: #0099ff;
+}
+
+.hero-section p {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+.welcome-box {
+  background: #ffffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 3rem;
+  margin: 4rem auto;
+  max-width: 800px;
+  border-radius: 1rem;
+  text-align: center;
+}
+
+.welcome-box h1 {
+  color: #00264d;
+  font-size: 2.75rem;
+  font-weight: bold;
+}
+
+.welcome-box p {
+  color: #666;
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+}
+
+.feature-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid #bdeeff;
+  border-radius: 0.75rem;
+  overflow: hidden;
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 123, 255, 0.15);
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+  color: #fff;
+  font-weight: bold;
+  padding: 0.5rem 1.25rem;
+  transition: background-color 0.3s ease;
+  border-radius: 0.5rem;
+}
+
+.btn-primary:hover {
+  background-color: #005fcc;
+  color: #fff;
+}
+
+.form-control:focus {
+  border-color: #0099ff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 153, 255, 0.25);
+}
+
+footer {
+  background-color: #007bff;
+  padding: 1rem;
+  text-align: center;
+  color: white;
+}
+
+footer small {
+  color: #e0f4ff;
+}
