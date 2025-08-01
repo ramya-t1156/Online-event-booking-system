@@ -8,5 +8,6 @@ A full-stack web application for managing and booking events, built using **Reac
 
  LinkedIn: [Ramya T](https://www.linkedin.com/in/ramya-t-90a925291/)
 
-** Live Demo:**  
+### Live Demo:
+
 [online-event-booking-system.vercel.app](https://online-event-booking-system.vercel.app)
