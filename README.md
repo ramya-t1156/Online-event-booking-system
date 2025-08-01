@@ -80,5 +80,3 @@ event-booking-system/
 [online-event-booking-system.vercel.app](https://online-event-booking-system.vercel.app)
 
 ```
-Let me know if you'd like to add badges, screenshots, API documentation, or links to your GitHub and deployment.
-```
