@@ -162,7 +162,7 @@ const AdminDashboard = () => {
         )}
       </main>
 
-      <footer className="bg-light text-center py-3 border-top text-primary">
+      <footer className="bg-blue text-center py-3 border-top text-primary">
         <small>&copy; {new Date().getFullYear()} Event Booker. All rights reserved.</small>
       </footer>
     </div>
@@ -170,3 +170,4 @@ const AdminDashboard = () => {
 };
 
 export default AdminDashboard;
+
