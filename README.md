@@ -2,11 +2,11 @@
 
 A full-stack web application for managing and booking events, built using **React** for the frontend and **Spring Boot** for the backend.
 
-##  Contact
+## Contact 
 
- Email: [Ramya T](mailto:ramyathangamuthu7783@gmail.com)
-
- LinkedIn: [Ramya T](https://www.linkedin.com/in/ramya-t-90a925291/)
+For any inquiries or suggestions, feel free to reach out:
+- **Email**: ramyathangamuthu7783@gmail.com.com
+- **GitHub**: [ramya-t1156](https://github.com/ramya-t1156)
 
 ### Live Demo:
 
